@@ -7,7 +7,7 @@ class Model {
         this._musicOn = true;
         this._sfxOn = true;
         this.gameTitle="Star\nCollector\n";
-        this.instructionText="Click left or right of the ball \n to move. Try not to fall. \n Collect stars for points.";
+        this.instructionText="Click left or right of the screen \n to move the ball. Try not to fall. \n Collect stars for points.";
     }
     set musicOn(val) {
         this._musicOn = val;

@@ -16,7 +16,7 @@ class SceneTitle extends Phaser.Scene {
             rows: 11,
             cols: 11
         });
-      //  this.aGrid.showNumbers();
+         //  this.aGrid.showNumbers();
        
         //
         //
@@ -65,7 +65,6 @@ class SceneTitle extends Phaser.Scene {
             textColor: '#000000'
         });
         this.aGrid.placeAtIndex(85, this.btnSettings);
-
 
     }
 }
